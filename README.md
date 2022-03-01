@@ -1,4 +1,4 @@
-![Github Banner](https://pbs.twimg.com/profile_banners/977407320400343040/1646145282/600x200)
+![Github Banner](assets/my-github-banner.png)
 
 ## Hi there <img src="assets/hello.gif" width="28px" alt="hi">
 
