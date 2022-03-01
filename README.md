@@ -40,20 +40,16 @@ I'm Naim, a graduating student of the Department of Software Engineering (Major 
       <td>It will give you the super-fast calculation with NO-RELODE. It's a kinda baby-Ecommerce.</td>
       <td>React.js</td>
     </tr>
-    
     <tr>
       <td><a href="https://ns-weather-app.netlify.app/" target="_blank">Weather Checking App</a></td>
       <td>It was a simple weather checking app that I have developed for practice purposes when I was learning API.</td>
       <td>Vanilla JavaScript</td>
     </tr>
-    
     <tr>
       <td><a href="https://purchase-js-app.netlify.app/" target="_blank">Shopping Cart With Coupon</a></td>
-      <td>Users can set a configuration like memory and storage to get the iMac. He also can choose a delivery option and see the updated price every time. Finally, he can use the coupon code "stevekaku" to get a discount.</td>
+      <td>Users can set a configuration like memory and storage to get the iMac. He also can choose a delivery option and see the updated price every time. Finally, he can use         the coupon code "stevekaku" to get a discount.</td>
       <td>Vanilla JavaScript</td>
     </tr>
-    
-    
   </tbody>
 </table>
 
