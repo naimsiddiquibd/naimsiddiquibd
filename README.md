@@ -64,14 +64,13 @@ I'm Naim, a graduating student of the Department of Software Engineering (Major 
 
 <details>
 <summary>
-  You wanna know more about me?
+  Would you like to know more about me?
 </summary>
 
 <br >
 
 A graduating student of the Department of Software Engineering (Major in Cyber Security) from Daffodil International University (DIU). The major area of expertise is - Web & Mobile Application Development in MERN Stack. Always prefer to introduce myself as a "Learner" rather than an Expert. I believe - "Everyday life is like programming. If we love something we can put beauty in it!" - and that's what am always doing what I love the most - "Programming".
 
-#### Github Stats
 
 ![naimsiddiquibd's github stats](https://github-readme-stats.vercel.app/api?username=naimsiddiquibd&count_private=true&theme=tokyonight&hide=contribs,prs)
 
